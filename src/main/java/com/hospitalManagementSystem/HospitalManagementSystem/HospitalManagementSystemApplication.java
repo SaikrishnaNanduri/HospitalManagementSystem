@@ -8,7 +8,7 @@ public class HospitalManagementSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HospitalManagementSystemApplication.class, args);
-		System.out.println("Hospital Management System Spring Boot Project Started...!!! ");
+		System.out.println("Hospital Management System Spring Boot Project Started...again..once..!!! ");
 	}
 
 }
